@@ -17,7 +17,6 @@
         content: "";
         left: 0;
         top: 0;
-        background: linear-gradient(180deg, rgba(20, 207, 147, 0.8) 0%, #0D825C 100%);
         transition: 0.3s;
         opacity: 0;
         visibility: hidden;
@@ -28,7 +27,6 @@
 
     @media (hover:none) {
         border-color: transparent;
-        background: linear-gradient(180deg, rgba(20, 207, 147, 0.8) 0%, #0D825C 100%);
     }
 
     &:hover {

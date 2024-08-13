@@ -10944,7 +10944,6 @@ body {
 @media (hover: none) {
   .work-process-box {
     border-color: transparent;
-    background: linear-gradient(180deg, rgba(20, 207, 147, 0.8) 0%, #0D825C 100%);
   }
 }
 .work-process-box:hover {
